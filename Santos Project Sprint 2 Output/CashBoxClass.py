@@ -14,7 +14,7 @@ class CashBox:
         self.total_inserted_cash = 0.00
 
         #Initializing total change left in the vending machine
-        self.left_change = 5600.00
+        self.left_change = 2600.00
 
     #function for computing total cash inserted
     def get_total_inserted_cash(self, cash):
